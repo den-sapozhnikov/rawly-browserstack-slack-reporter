@@ -90,6 +90,8 @@ Rawly’s messages include:
 - 🏷 Project name & branch
 - 💬 Random Rawly quote (she’s got opinions)
 
+![Rawly report](./report.png)
+
 ---
 
 ## 🧪 Quote Customization
