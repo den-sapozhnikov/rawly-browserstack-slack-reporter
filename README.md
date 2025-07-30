@@ -4,8 +4,6 @@ A Cypress plugin that sends test results from BrowserStack directly to your Slac
 Built for teams who want clear feedback *and* a little sass.  
 **Rawly says**: _"If it passed — great. If it failed — I’m telling everyone."_  
 
-![Rawly avatar](./rawly.png)
-
 ---
 
 ## ✨ Features
@@ -115,3 +113,7 @@ Because feedback should be loud, honest, and a little flirty.
 
 > _Run me raw._  
 > — Rawly 💋
+
+---
+
+![Rawly avatar](./rawly.png)
